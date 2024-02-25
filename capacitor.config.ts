@@ -4,6 +4,8 @@ const commonPlugins = [
   "@capacitor/app",
   "@capacitor/browser",
   "@capacitor/keyboard",
+  "@capacitor/haptics",
+  "@capacitor/push-notifications",
 ];
 const androidPlugins: string[] = [];
 const iosPlugins = ["capacitor-plugin-safe-area"];
