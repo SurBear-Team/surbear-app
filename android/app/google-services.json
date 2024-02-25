@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055410488010",
+    "project_id": "miti-app-3077f",
+    "storage_bucket": "miti-app-3077f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055410488010:android:d0310670c8cf0f71f76a33",
+        "android_client_info": {
+          "package_name": "com.gcc.miti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQZHzi6H_IXniywKTD1Mt3t7nZDsB_Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
