@@ -6,6 +6,7 @@ const commonPlugins = [
   "@capacitor/keyboard",
   "@capacitor/haptics",
   "@capacitor/push-notifications",
+  "@capacitor/toast",
 ];
 const androidPlugins: string[] = [];
 const iosPlugins = ["capacitor-plugin-safe-area"];
