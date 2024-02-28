@@ -57,6 +57,11 @@
   "resolved" "https://registry.npmjs.org/@capacitor/ios/-/ios-5.7.0.tgz"
   "version" "5.7.0"
 
+"@capacitor/keyboard@^5.0.8":
+  version "5.0.8"
+  resolved "https://registry.npmjs.org/@capacitor/keyboard/-/keyboard-5.0.8.tgz"
+  integrity sha512-XYyBzGlzjgLPqyPVdu5McGLYV6+G2efVR4I3l5cF1B27M6U/oFqv9CQU74WNG08nee28bfccboNpv6eWCLYn1A==
+
 "@capacitor/push-notifications@^5.1.1":
   "integrity" "sha512-lPtjlMG/PXKZEQjFFI3uqDqC8XaVjOosStvMZMVgxHgn2U45J3QRznUdVR0d6XqLmHnilxLs8ZNislkie0QfPA=="
   "resolved" "https://registry.npmjs.org/@capacitor/push-notifications/-/push-notifications-5.1.1.tgz"
