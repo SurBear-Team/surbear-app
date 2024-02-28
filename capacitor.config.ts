@@ -1,4 +1,5 @@
 import { CapacitorConfig } from "@capacitor/cli";
+import { KeyboardResize, KeyboardStyle } from "@capacitor/keyboard";
 
 const commonPlugins = [
   "@capacitor/app",
@@ -34,6 +35,13 @@ const config: CapacitorConfig = {
     includePlugins: [...commonPlugins, ...iosPlugins],
   },
   server,
+  plugins: {
+    Keyboard: {
+      resize: KeyboardResize.Body,
+      style: KeyboardStyle.Dark,
+      resizeOnFullScreen: true,
+    },
+  },
 };
 
 export default config;
