@@ -8,6 +8,7 @@ const commonPlugins = [
   "@capacitor/haptics",
   "@capacitor/push-notifications",
   "@capacitor/toast",
+  "@capacitor/status-bar",
 ];
 const androidPlugins: string[] = [];
 const iosPlugins = ["capacitor-plugin-safe-area"];
@@ -15,6 +16,7 @@ const iosPlugins = ["capacitor-plugin-safe-area"];
 //* ********************************************************************************************* */
 
 const url = "https://dev-miti.dockerfile.site";
+// const url = "http://192.168.0.107:5173";
 
 const server: CapacitorConfig["server"] = {
   hostname: "localhost",
@@ -26,7 +28,7 @@ const server: CapacitorConfig["server"] = {
 
 const config: CapacitorConfig = {
   appId: "com.gcc.miti",
-  appName: "miti",
+  appName: "미티",
   bundledWebRuntime: false,
   android: {
     includePlugins: [...commonPlugins, ...androidPlugins],

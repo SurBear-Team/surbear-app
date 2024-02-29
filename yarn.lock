@@ -72,6 +72,11 @@
   "resolved" "https://registry.npmjs.org/@capacitor/splash-screen/-/splash-screen-5.0.7.tgz"
   "version" "5.0.7"
 
+"@capacitor/status-bar@^5.0.7":
+  "integrity" "sha512-KblB3gV2LDMEjx3fQoNBAzxb+Tr+2mv68SfFLLDCMiMUD3Eile2TAWRWd1yxy496pDFTOs2BJtup8++iuuuJ/w=="
+  "resolved" "https://registry.npmjs.org/@capacitor/status-bar/-/status-bar-5.0.7.tgz"
+  "version" "5.0.7"
+
 "@capacitor/toast@^5.0.7":
   "integrity" "sha512-E2AuYXUoPPFrfwv3iC5FOeSAkVwlJpIM0w0Sw4uqLM7jvSsOEZh3z9I4/Gdz0ltY0JsQmmnfvoFYiZ1TVsbhWw=="
   "resolved" "https://registry.npmjs.org/@capacitor/toast/-/toast-5.0.7.tgz"
