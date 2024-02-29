@@ -8,9 +8,8 @@ const commonPlugins = [
   "@capacitor/haptics",
   "@capacitor/push-notifications",
   "@capacitor/toast",
-  "@capacitor/status-bar",
 ];
-const androidPlugins: string[] = [];
+const androidPlugins: string[] = ["@capacitor/status-bar"];
 const iosPlugins = ["capacitor-plugin-safe-area"];
 
 //* ********************************************************************************************* */
