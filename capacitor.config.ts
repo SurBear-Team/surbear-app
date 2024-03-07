@@ -14,7 +14,7 @@ const iosPlugins = ["capacitor-plugin-safe-area"];
 
 //* ********************************************************************************************* */
 
-const url = "https://dev-miti.dockerfile.site";
+const url = "https://miti.dockerfile.site";
 // const url = "http://192.168.0.107:5173";
 
 const server: CapacitorConfig["server"] = {
