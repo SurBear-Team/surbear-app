@@ -14,7 +14,8 @@ const iosPlugins = ["capacitor-plugin-safe-area"];
 
 //* ********************************************************************************************* */
 
-const url = "https://miti.dockerfile.site";
+//const url = "http://surbear.s3-website.ap-northeast-2.amazonaws.com";
+const url = "https://app.surbear.site/";
 // const url = "http://192.168.0.107:5173";
 
 const server: CapacitorConfig["server"] = {
@@ -26,8 +27,8 @@ const server: CapacitorConfig["server"] = {
 };
 
 const config: CapacitorConfig = {
-  appId: "com.gcc.miti",
-  appName: "미티",
+  appId: "com.surbear.surbear",
+  appName: "서베어",
   bundledWebRuntime: false,
   android: {
     includePlugins: [...commonPlugins, ...androidPlugins],

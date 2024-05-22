@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">미티</string>
-    <string name="title_activity_main">미티</string>
-    <string name="package_name">com.gcc.miti</string>
-    <string name="custom_url_scheme">com.gcc.miti</string>
+    <string name="app_name">서베어</string>
+    <string name="title_activity_main">서베어</string>
+    <string name="package_name">com.surbear.surbear</string>
+    <string name="custom_url_scheme">com.surbear.surbear</string>
 </resources>
